@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm [Your Name]
+Aspiring Cybersecurity Professional | IT Student in Pretoria
 
-<!--
-**Vusi-Dennison/Vusi-Dennison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Current Focus: Preparing for the ISC2 Certified in Cybersecurity (CC) exam and planning to begin my new journey into Oracle's cloud infrastructure offerings to better my understanding of the CLOUD (Scheduled: June 11, 2026).
 
-Here are some ideas to get you started:
+🛠️ Hands-on Projects: Building a DevOps-oriented Home Lab to master Network Security and Infrastructure.
+🇿🇦 Goal: Securing a Junior SOC Analyst or GRC Internship role within the Gauteng ICT sector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+Security: Risk Management, Incident Response, Access Control (IAM).
+
+Tech: Ubuntu Server, Windows Server(2019), Docker, Network Infrastructure.
+
+Local Compliance: Foundational knowledge of POPIA and ISO/IEC 27001.
