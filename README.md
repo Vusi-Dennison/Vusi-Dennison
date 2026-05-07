@@ -19,3 +19,4 @@ Local Compliance: Foundational knowledge of POPIA and ISO/IEC 27001.
 <a href="https://www.credly.com/badges/dc59a652-556c-4e6c-8656-2e51d9f24e95/public_url">
   <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="150" alt="ISC2 Candidate Badge">
 </a>
+
