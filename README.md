@@ -6,7 +6,7 @@ Aspiring DevSecOps and Cloud Architect | IT Student in Pretoria
 
 🛠️ Hands-on Projects: Building a DevOps-oriented Home Lab to master Network Security and Infrastructure.
 
- Goal: Securing a Junior SOC Analyst or GRC Internship role within the Gauteng ICT sector.
+ Goal: Securing a Junior SOC Analyst or DevOps Internship role within the Gauteng ICT sector.
 
 Skills:
 
